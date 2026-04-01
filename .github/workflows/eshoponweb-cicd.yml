@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-region1
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 36c9cd2a-777a-491c-80b5-3cb5af4a8021
+  SUBSCRIPTION-ID: 40a02d7c-caf4-4f2c-b028-cf30ba57f3fd
   WEBAPP-NAME: devops-webapp-region1-60508073
 
 jobs:
